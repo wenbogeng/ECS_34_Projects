@@ -1,2 +1,2 @@
 # ECS_34_Projects
- Spring_2019
+ Software Development in UNIX and C/C++ Spring 2019
